@@ -30,3 +30,5 @@ let flowerbed = [1, 0, 0, 0, 1];
 let n = 1;
 
 console.log(canPlaceFlowers(flowerbed, n));
+
+
