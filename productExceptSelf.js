@@ -27,3 +27,8 @@ var productExceptSelf = function(nums) {
 };
 
 console.log(productExceptSelf([1,5,7,8,4,8,4]))
+
+
+
+
+
